@@ -1,4 +1,11 @@
 {
   "name": "Noti2",
-  "displayName": "Noti2"
+  "displayName": "Noti2",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "221fdf96-0d36-477f-b1e2-b538939646b0"
+      }
+    }
+  }
 }
